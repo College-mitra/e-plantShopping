@@ -1,0 +1,11 @@
+.background-image {
+  background-image: url("/images/nursery.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+}
